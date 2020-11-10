@@ -1,0 +1,258 @@
+﻿Facebook's mission is to give people the power to build community and bring the world closer together. Through our family of apps and services, we're building a different kind of company that connects billions of people around the world, gives them ways to share what matters most to them, and helps bring people closer together. Whether we're creating new products or helping a small business expand its reach, people at Facebook are builders at heart. Our global teams are constantly iterating, solving problems, and working together to empower people around the world to build community and connect in meaningful ways. Together, we can help people build stronger communities - we're just getting started.
+Messenger engagement has increased dramatically and Messenger teams are focused on continuing to increase the user base, improve user experience across existing features, but also largely focused on developing new product and features across the platform to engage all demographics (Visual messaging, Status, Realtime Communication, Expression, Groups, VoIP, Chat Heads, and Rich Attachment Types).Messenger currently has 1.5 Billion plus monthly active users, and this team focuses on making Messenger a platform that enables new communication experiences both inside Messenger and across the FB family of apps. We are looking for a Data Scientist who enjoys working on complex technical problems and can connect deep technical concepts to business strategy and user experience.
+
+
+* Work cross-functionally to define problem statement, create long term product vision, and build analytical models to make recommendations
+* Apply analytical skills to gain deep insights into Messenger’s platform performance and how it affects end user experience
+* Partner with Product and Engineering teams to solve problems and identify new levers to improve platform performance and user experience
+* Influence the product roadmap and decisions made through presentation of data-based recommendations
+* Lead investigations and communicate metrics, trends and other key indicators to leadership
+* Leverage tools like R, Python, Hadoop & SQL to drive efficient analytics
+* Advanced degree in Math/Statistics, Engineering, Physics, Computer Science, or equivalent practical experience
+* 5+ years of experience solving analytical problems using quantitative approaches
+* Experience initiating and drive projects to completion with minimal guidance
+* Experience in cross-functional partnership among teams of Engineers and PMs
+* Understanding of statistics (e.g., hypothesis testing, regressions)
+* Experience communicating the results of analyses with product and leadership teams to influence the roadmap of the product
+* Enthusiasm for the space & problem Messenger is trying to solve
+* Experience working on SaaS platforms
+* Exposure to large scale systems, comfortable with technical discussions
+* Experience with large data sets and distributed computing (Hive/Hadoop)
+* Experience in SQL and a scripting language (Python preferred)
+Facebook is proud to be an Equal Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state and local law.
+
+
+Facebook is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance or accommodations due to a disability, please let us know at accommodations-ext@fb.com.
+Seniority Level
+Mid-Senior level
+Industry
+* Internet
+Employment Type
+Full-time
+Job Functions
+* Information Technology
+
+
+
+
+Job Description
+
+
+The New York Times is a technology company committed to producing the world’s most reliable and highest quality journalism. Our ability to do so relies on a talented team of expert technologists who help NYT learn from a tremendous abundance of data unique to this company. The Times seeks a Data Scientist to join the Data Science Group applying machine learning methods to meet this challenge, in close collaboration with working partners across the company.
+
+
+Responsibilities
+* Reframe newsroom and business objectives as machine learning tasks that can deliver actionable insights, accurate predictions, and effective optimization.
+* Implement and execute machine learning research with reliability and reproducibility.
+* Communicate results and impact to newsroom and business stakeholders.
+* Turn models into data products, collaborate with engineering teams, and integrate into process throughout The Times.
+
+Technical
+
+
+Qualifications:
+   * PhD, MS, or 3+ years experience in statistics, computational social science, applied mathematics, or another quantitative/computational discipline.
+   * 2+ years experience with open source machine learning or statistical analysis tools. Familiarity with experimental design a plus.
+   * 2+ years coding experience, Python preferred.
+   * Ability to communicate complex ideas in data science to relevant stakeholders.
+Data engineering experience, including SQL and manipulating large structured or unstructured datasets for analysis.
+
+
+Preferred: experience with building data products, either internal or consumer-facing.
+
+
+Preferred: Experience building statistical inferential models, experience quantifying and communicating uncertainty
+
+
+Non-Technical
+   * Commitment to the Times’ mission of delivering the world’s best and most reliable journalism.
+   * Excellent analytical and problem-solving skills
+   * Strong oral and written communication skills
+   * A passion for empirical research and for answering hard questions with data.
+   * Proven record of solving challenging problems in academia and/or industry.
+   * Eagerness to collaborate with both technical and non-technical colleagues in editorial, product management, marketing, and executive leadership groups.
+   * Ability to gauge the complexity of machine learning problems and a willingness to execute simple approaches for quick effective solutions as appropriate.
+   * Desire to join the world’s most important journalism company at a moment in history when the importance of learning from our data is transforming every aspect of the craft and practice of journalism.
+Please provide GitHub or portfolio site if available.
+
+
+The New York Times is committed to a diverse and inclusive workforce, one that reflects the varied global community we serve. Our journalism and the products we build in the service of that journalism greatly benefit from a range of perspectives, which can only come from diversity of all types, across our ranks, at all levels of the organization. Achieving true diversity and inclusion is the right thing to do. It is also the smart thing for our business. So we strongly encourage women, veterans, people with disabilities, people of color and gender nonconforming candidates to apply.
+
+
+The New York Times Company is an Equal Opportunity Employer and does not discriminate on the basis of an individual's sex, age, race, color, creed, national origin, alienage, religion, marital status, pregnancy, sexual orientation or affectional preference, gender identity and expression, disability, genetic trait or predisposition, carrier status, citizenship, veteran or military status and other personal characteristics protected by law. All applications will receive consideration for employment without regard to legally protected characteristics. The New York Times Company will consider qualified applicants, including those with criminal histories, in a manner consistent with the requirements of applicable state and local "Fair Chance" laws.
+
+
+Seniority Level
+Mid-Senior level
+Industry
+   * Online Media 
+   *  Publishing 
+   *  Newspapers
+Employment Type
+Full-time
+Job Functions
+   * Engineering 
+   *  Information Technology
+
+
+
+
+About The Role
+
+
+We are looking for a Data Scientist to join our Data and Insights team. In this role, you will define metrics used to track engagement, feature usage, and user-centric outcomes. You will use data to uncover user preferences and quantify product experiences, all with an aim of guiding our Search and Recommendations team to build more relevant and impactful experiences for our users.
+
+
+All of this means balancing ad hoc data exploration and longer-running analytical projects; designing and conducting experiments; bridging the gap between Product Managers and Data Engineers to assure that the necessary data is accessible and easy to use; regularly presenting findings to the Data and Insights team, Search and Recommendations team, as well as the company.
+
+
+Skills We're Looking For
+
+
+Data manipulation
+
+
+In our opinion, things that can be reasonably expressed in SQL, ought to be. We expect our Data Scientists to have strong analytical SQL skills. This means a fluidity constructing statements that rely on a combination of joins, aggregate functions, subqueries, and window functions. This role will work with large-scale data, so this person must have experience writing efficient, performance-optimized queries.
+
+
+Analysis
+
+
+Right now, our bias is toward models that can be interpreted to drive human action. We're seeking an individual who enjoys experimentation and statistical analysis—someone who can translate what they see in the data into useful policy suggestions. A thorough understanding of statistical inference is required.
+
+
+Modeling
+
+
+You should have hands-on experience building machine learning models (supervised and unsupervised) and know how to incorporate your models into production workflows and product experiences. At the outset, this role will largely focus on experimentation and more foundational product analysis; however, some degree of specialization in either preference learning and recommendations or text processing and search is expected.
+
+
+Tooling expectations
+   * Regular usage of a programming language typically used for statistical analysis and machine learning (ideally Python).
+   * Strong experience with analytical SQL (ideally BigQuery, Snowflake, or a similar MPP data-warehouse technology).
+   * Hands-on experience with self-service product-analytics tools (e.g., Looker, Mixpanel, Amplitude, Heap).
+   * Training in statistics, econometrics, or machine learning, with plenty of real-world experience applying these methodologies.
+   * Exposure to data sets used by Product teams. Chiefly, large-scale event data (e.g., Mixpanel, Segment, Snowplow, server logs) and normalized transactional databases (e.g., e-commerce and subscription datasets).
+
+
+Additional Comments
+
+
+There are no specific degree requirements for this role: we appreciate and seek out diverse backgrounds. Instead of any particular formal education requirement, we'll flesh out what you've built, what you know, and how you approach problem solving.
+
+
+As a company that serves musicians and producers, some knowledge of the music-production process is an asset. If this topic is new to you, that's okay—you should be open to learning about it.
+
+
+Equal Opportunity Employer:
+
+
+Splice is an equal opportunity employer, committed to diversity and inclusion. We will consider all qualified applicants without regard to race, color, nationality, gender, gender identity or expression, sexual orientation, religion, disability or age.
+
+
+
+
+About The Brand
+
+
+ViacomCBS (NASDAQ: VIAC; VIACA) is a leading global media and entertainment company that creates premium content and experiences for audiences worldwide. Driven by iconic consumer brands, its portfolio includes CBS, Showtime Networks, Paramount Pictures, Nickelodeon, MTV, Comedy Central, BET, CBS All Access, Pluto TV and Simon & Schuster, among others. The company delivers the largest share of the U.S. television audience and boasts one of the industry's most important and extensive libraries of TV and film titles. In addition to offering innovative streaming services and digital video products, ViacomCBS provides powerful capabilities in production, distribution and advertising solutions for partners on five continents.
+
+
+Overview And Responsibilities
+
+
+We are looking for a Junior Data Scientist to join the Data and Decision Sciences Group. This person will work closely with the team’s Director of Data Science to execute on ViacomCBS’s data strategy. This includes working with big data, data visualization, predictive content/show analytics, total cross-platform consumption and forecasting, and most importantly, translation of data into new products, tools, and insights. Here at ViacomCBS, we work hard and seek to nurture an inclusive environment.
+
+
+Basic Qualifications
+
+
+Core Responsibilities:
+   * Working with other team members and the team director to prioritize needs, develop comprehensive and efficient solutions, and translate data from business problems into insights
+   * Understanding a wide range of data sets to mine, analyze, run forecasting models, create segments, etc. to ultimately drive insights and build new data delivery tools
+   * Understanding both ViacomCBS’s business needs and existing data assets to connect the dots and build data delivery tools that help in:
+
+      * Using existing programming data for more targeted digital programmatic buys
+      * Taxonomizing existing digital measurement data to inform future partnership deals, windowing strategy, cross-platform
+      * Aggregating data to create predictive tools for audience growth, programming opportunity, and optimal marketing plans
+      * Developing out normative databases from existing survey data
+      * Creating data maps and taxonomies from disparate data sets
+      * Defining key KPIs from merged data sets and translating into standard metric deliverables
+      * Creating processes/techniques to reliably fuse custom survey data sets to syndicated measurement data, as well as fusing different measurement data sets together
+      * Working with the director and team to help build out a consolidated data platform that hosts statistical algorithms for predictive modeling, data visualization and dashboarding, and flexible and real time reporting
+
+Additional Qualifications
+
+
+Qualifications:
+         * Familiar with entertainment landscape and trends in TV and media
+         * Expertise in programming languages: SQL, Python, R
+         * Expertise in advanced statistical techniques: basic modeling using regression; advanced modeling using hierarchical, Bayesian, or structural equation techniques; path analyses; clustering via factor analysis, decision tree; statistical testing using ANOVA, covariate analysis; correlational analyses via affinity mapping, correspondence analysis; projection and modeling up techniques via ‘look-a-like’ modeling; etc.
+         * BA/BS (M.S. or Ph.D. is a plus) in statistics, computer science, social sciences, or another quantitative subject area (such as physics, computational biology, sociology, cognitive science, political science, etc.)
+
+ViacomCBS is an equal opportunity employer (EOE) including disability/vet.
+
+
+At ViacomCBS, the spirit of inclusion feeds into everything that we do, on-screen and off. From the programming and movies we create to employee benefits/programs and social impact outreach initiatives, we believe that opportunity, access, resources and rewards should be available to and for the benefit of all. ViacomCBS is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ethnicity, ancestry, religion, creed, sex, national origin, sexual orientation, age, citizenship status, marital status, disability, gender identity, gender expression, and Veteran status.
+
+
+
+
+All employees are working remotely due to Covid-19 and we have committed to not require a return to the office until September 2021 at the earliest. Many positions throughout the company will remain fully remote.*
+
+Our Mission
+
+To actively connect people to their next great opportunity.
+
+Who We Are
+
+ZipRecruiter is a leading online employment marketplace. Powered by AI-driven smart matching technology, the company actively connects millions of all-sized businesses and job seekers through innovative mobile, web, and email services, as well as partnerships with the best job boards on the web. ZipRecruiter has the #1 rated job search app on iOS & Android.
+
+Summary Of Job
+
+We use statistical science to understand how to construct an efficient and optimized market, understand causality, and drive our future investment. We use machine learning techniques to solve challenging problems so that we optimally match candidates and jobs. This includes NLP and deep learning along with pragmatic use of simpler machine learning approaches and heuristics.
+
+We're looking for an experienced Data Scientist with a passion for problem-solving to join our team of data scientists and help solve new and existing challenges. Coming up with new analysis and understanding, building models, developing high quality, high-performance code and constantly improving the solution and expanding its scope.
+
+Key Focuses
+
+            * You'll be joining a team of software engineers, data scientists, and ML engineers working on interesting problems in the fields of recommendations, search, and NLP.
+            * Develop production-level code that runs, trains, and maintains ML models.
+
+
+Minimum Requirements
+
+            * Master's degree or higher in Computer Science / Mathematics / Statistics or equivalent
+            * 3+ years of experience as a Data Scientist
+            * Proficiency in Python
+            * Strong background in machine learning, preferably in NLP related fields
+            * Familiarity with Deep Learning
+            * Experience with Linux environment and AWS Team player with excellent communication skills
+            * Acting and thinking as an owner, building code that will run in production
+
+
+As Part Of Our Team You’ll Enjoy
+
+            * Competitive salary
+            * Exceptional benefits package
+            * Flexible Vacation & Paid Time Off
+            * Employer-matched 401(k) plan
+
+
+Privacy Notice Language
+
+            * "For information about ZipRecruiter's processing of California job applicant personal data, please see our Privacy Notice at: https://www.ziprecruiter.com/careers/california-job-applicant-privacy-notice "
+ZipRecruiter is proud to be an equal opportunity employer and provides equal employment opportunities (EEO) to all employees and applicants without regard to race, color, religion, sex, national origin, age, disability, veteran status, sexual orientation, gender identity or genetics.
+
+Category: Computer/Software
+Seniority Level
+Entry level
+Industry
+            * Marketing & Advertising 
+            *  Computer Software 
+            *  Internet
+Employment Type
+Full-time
+Job Functions
+            * Engineering 
+            *  Information Technology
